@@ -1,2 +1,2 @@
 #  Scientific Calculator
-A simple and intuitive web-based calculator built with HTML, CSS, and JavaScript. Features a clean user interface, basic arithmetic operations (addition, subtraction, multiplication, division), and responsive design for various devices. Perfect for practicing and showcasing web development skills.
+A comprehensive web-based scientific calculator built with HTML, CSS, and JavaScript. Features a clean and responsive UI, supporting basic arithmetic operations, trigonometric functions, logarithms, exponentials, and more advanced calculations. Ideal for enhancing and demonstrating web development skills.
